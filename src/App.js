@@ -23,7 +23,7 @@ export default function App() {
             <a
               href="https://www.linkedin.com/in/zahrakhan282"
               target="_blank"
-              rel="noreferrer"
+              rel="noopener noreferrer"
             >
               Zahra Khan
             </a>{" "}
@@ -31,7 +31,7 @@ export default function App() {
             <a
               href="https://github.com/zahrakhan282/react-dictionary-search"
               target="_blank"
-              rel="noreferrer"
+              rel="noopener noreferrer"
             >
               {" "}
               GitHub
