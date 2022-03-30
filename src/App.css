@@ -2,7 +2,11 @@
   display: block;
   margin: 0 auto;
 }
+.App .Dictionary {
+  text-align: center;
 
+  padding: 20px;
+}
 .App .App-footer {
   font-family: "Courier New", Courier, monospace;
   text-align: center;

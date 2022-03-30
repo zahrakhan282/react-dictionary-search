@@ -1,3 +1,4 @@
+import React from "react";
 import logo from "./logo.png";
 import "./App.css";
 import Dictionary from "./Dictionary";
@@ -13,7 +14,7 @@ export default function App() {
             alt="logo"
           />
         </header>
-        <main>
+        <main className="Dictionary">
           <Dictionary />
         </main>
         <footer className="App-footer">
