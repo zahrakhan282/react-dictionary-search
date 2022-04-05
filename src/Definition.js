@@ -5,9 +5,10 @@ export default function Definition(props) {
   return (
     <div>
       <p>
-        <strong>{props.definition.definition}</strong>
-
+        <strong>Definition: </strong>
+        {props.definition.definition}
         <br />
+
         <em>{props.definition.example}</em>
       </p>
     </div>
