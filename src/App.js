@@ -8,16 +8,12 @@ export default function App() {
     <div className="App">
       <div className="container">
         <header className="App-header">
-          <img
-            src={logo}
-            className="App-logo img-fluid shadow mt-5"
-            alt="logo"
-          />
+          <img src={logo} className="App-logo img-fluid mt-5" alt="logo" />
         </header>
         <main className="Dictionary">
-          <Dictionary />
+          <Dictionary defaultKeyword="hello" />
         </main>
-        <footer className="App-footer">
+        <footer className="App-footer mb-5">
           <small>
             Coded by{" "}
             <a

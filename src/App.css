@@ -1,10 +1,22 @@
+body {
+  background-color: #ecf2f9;
+}
+
+a {
+  color: #0b8457;
+}
+
+a:hover {
+  color: #679186;
+}
+
 .App .App-logo {
   display: block;
   margin: 0 auto;
+  border-radius: 8px;
+  box-shadow: 0px 10px 50px rgba(0, 0, 0, 0.1);
 }
 .App .Dictionary {
-  text-align: center;
-
   padding: 20px;
 }
 .App .App-footer {
