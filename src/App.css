@@ -10,6 +10,11 @@ a:hover {
   color: #679186;
 }
 
+.App {
+  max-width: 960px;
+  margin: 0 auto;
+}
+
 .App .App-logo {
   display: block;
   margin: 0 auto;

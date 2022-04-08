@@ -23,7 +23,7 @@ export default function App() {
             >
               Zahra Khan
             </a>{" "}
-            and is open-sourced on{" "}
+            and open-sourced on{" "}
             <a
               href="https://github.com/zahrakhan282/react-dictionary-search"
               target="_blank"
