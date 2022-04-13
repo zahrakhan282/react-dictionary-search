@@ -32,3 +32,12 @@
   font-size: 12px;
   margin-top: 5px;
 }
+
+@media only screen and (max-width: 768px) {
+  .Dictionary .form-input {
+    width: 70%;
+  }
+  .Dictionary .form-search {
+    width: 30%;
+  }
+}
