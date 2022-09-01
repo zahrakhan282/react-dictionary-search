@@ -1,70 +1,30 @@
-# Getting Started with Create React App
+[Click here for live demo](https://khanvenience.netlify.app/).
+<img width="1075" alt="mockup-dictionary" src="https://user-images.githubusercontent.com/92318870/187882324-76076247-53c0-4c4e-95e6-dd61168d1f64.png">
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# React Dictionary App
 
-## Available Scripts
+This is a Reactjs project focused on creating a simple, user-friendly design with seamless word-search functionality.
 
-In the project directory, you can run:
+# Installation and Set-up Instructions
 
-### `npm start`
+Clone down this repository you will need `node` and `npm` installed globally on your machine.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### Installation
+`npm install`
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### To Start Server
+`npm start`
 
-### `npm test`
+# Reflection
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- Single Responsibility Principle
+- React Components
+- React Loops
+- API Integration
+- Responsive Design
 
-### `npm run build`
+I learned so many new  and exciting things by creating this coding project. Ultimately, the goal was to create a fully functional dictionary app that included basic features like the definition, part of speech, synonyms, phonetic spelling, an audio clip and image section. My first step was to create a wireframe on InvisionApp, which you can view [here](https://zahrakhan224337.invisionapp.com/freehand/Untitled-Zlht5rTAq?dsid_h=6ef47684a2308cfea0d05547ab374bf25e580b1f9db89a2dfa3fbc3320f5166d&uid_h=9c5d13a3886cde3be387b73a5c16f7678dc7a4479e5091a82f314e8b304b5d21).
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+While building this application, I learned how to search for the APIs that were right for getting my desired end result, create specific components, use React Loops and Hooks.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+The main challenges of the project was knowing when to create more components, so the application could parse through the different aspects of the complex API and stay true to the Single Responsibility Principle.
