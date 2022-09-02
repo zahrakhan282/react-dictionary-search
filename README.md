@@ -20,6 +20,7 @@ Clone down this repository you will need `node` and `npm` installed globally on 
 - Single Responsibility Principle
 - React Components
 - React Loops
+- React Hooks
 - API Integration
 - Responsive Design
 
